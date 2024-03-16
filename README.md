@@ -55,11 +55,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 ### Server Side:
-![image](https://github.com/Safeeq-Fazil/Echoserver/assets/118680361/59fa91d8-23bd-43a6-8229-98bdc9dcec58)
+![image](https://github.com/Safeeq-Fazil/Echoserver/assets/118680361/2b03eff8-ed32-4a73-8c9f-2b5615865fc7)
 
 
 ### Client Side:
-![image](https://github.com/Safeeq-Fazil/Echoserver/assets/118680361/9b9e9339-88aa-4f35-8f5f-12a0974c93d4)
+![image](https://github.com/Safeeq-Fazil/Echoserver/assets/118680361/c4953132-3f6c-4a30-ac49-26522fe2a886)
 
 
 ## RESULT:
